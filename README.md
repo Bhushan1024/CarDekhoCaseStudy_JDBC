@@ -9,7 +9,7 @@ The CarDekho Admin Console is a simplified  application built using Java and JDB
 **Technologies Used:**
 1. Java
 2. JDBC (Java Database Connectivity)
-3. MySQL (or another database system)
+3. MySQL 
 
 **Project Goals:**
 The primary goal of the CarDekho Admin Console is to provide an efficient and user-friendly tool for administrators to manage car listings and user data within the CarDekho platform. It aims to improve the overall administration process, ensure data accuracy, and enhance security.
